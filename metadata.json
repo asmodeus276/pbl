@@ -1,0 +1,6 @@
+{
+  "name": "Templated C++ Matrix Engine & Visual Lab",
+  "description": "An interactive C++ template-based matrix multiplier lab with live execution simulation, step-by-step dot product breakdown, C++ code studio, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
